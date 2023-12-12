@@ -1,4 +1,14 @@
 {
+  "name": "tdd_workshop_2.0",
+  "version": "1.0.0",
+  "author": "José Carlos Fernández Rodríguez",
+  "description": "A TDD workshop project 2.0",
+  "scripts": {
+    "tests": "jest",
+    "tests:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "license": "ISC",
   "dependencies": {
     "jest": "^29.7.0"
   }
